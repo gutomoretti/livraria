@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livraria.UI", "Livraria.UI\Livraria.UI.csproj", "{AFB72F55-9EA7-472D-B81C-6E4511BD4B7D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - UI", "1 - UI", "{E51F5733-77D1-4E4A-A13E-377D231A4F41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Services", "2 - Services", "{E52DEA55-9F8C-4D5F-AAA1-8B5C8A575406}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Application", "3 - Application", "{2846917F-B159-4A8E-8995-85E967F5C78C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Data", "4 - Data", "{72148BDC-13EB-4874-812E-EC2D563B9382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livraria.Api", "Livraria.Api\Livraria.Api.csproj", "{7EC7CE9C-B99A-455A-A238-38FE5EEB02A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livraria.Application", "Livraria.Application\Livraria.Application.csproj", "{0B1A9AE1-9CD8-4B77-87AB-BC0CACDBDB45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livraria.Data", "Livraria.Data\Livraria.Data.csproj", "{55DE260D-278D-41E3-89D5-FC2728E75C71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFB72F55-9EA7-472D-B81C-6E4511BD4B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB72F55-9EA7-472D-B81C-6E4511BD4B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB72F55-9EA7-472D-B81C-6E4511BD4B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB72F55-9EA7-472D-B81C-6E4511BD4B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EC7CE9C-B99A-455A-A238-38FE5EEB02A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC7CE9C-B99A-455A-A238-38FE5EEB02A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC7CE9C-B99A-455A-A238-38FE5EEB02A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC7CE9C-B99A-455A-A238-38FE5EEB02A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1A9AE1-9CD8-4B77-87AB-BC0CACDBDB45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1A9AE1-9CD8-4B77-87AB-BC0CACDBDB45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1A9AE1-9CD8-4B77-87AB-BC0CACDBDB45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1A9AE1-9CD8-4B77-87AB-BC0CACDBDB45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55DE260D-278D-41E3-89D5-FC2728E75C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DE260D-278D-41E3-89D5-FC2728E75C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DE260D-278D-41E3-89D5-FC2728E75C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DE260D-278D-41E3-89D5-FC2728E75C71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AFB72F55-9EA7-472D-B81C-6E4511BD4B7D} = {E51F5733-77D1-4E4A-A13E-377D231A4F41}
+		{7EC7CE9C-B99A-455A-A238-38FE5EEB02A5} = {E52DEA55-9F8C-4D5F-AAA1-8B5C8A575406}
+		{0B1A9AE1-9CD8-4B77-87AB-BC0CACDBDB45} = {2846917F-B159-4A8E-8995-85E967F5C78C}
+		{55DE260D-278D-41E3-89D5-FC2728E75C71} = {72148BDC-13EB-4874-812E-EC2D563B9382}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFB887A0-E0E6-42DB-B8AF-D20259131F13}
+	EndGlobalSection
+EndGlobal

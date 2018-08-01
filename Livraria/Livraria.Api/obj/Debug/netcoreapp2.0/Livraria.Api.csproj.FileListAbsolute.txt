@@ -1,0 +1,16 @@
+D:\Git\Livraria\Livraria\Livraria.Api\bin\Debug\netcoreapp2.0\Livraria.Api.deps.json
+D:\Git\Livraria\Livraria\Livraria.Api\bin\Debug\netcoreapp2.0\Livraria.Api.runtimeconfig.json
+D:\Git\Livraria\Livraria\Livraria.Api\bin\Debug\netcoreapp2.0\Livraria.Api.runtimeconfig.dev.json
+D:\Git\Livraria\Livraria\Livraria.Api\bin\Debug\netcoreapp2.0\Livraria.Api.dll
+D:\Git\Livraria\Livraria\Livraria.Api\bin\Debug\netcoreapp2.0\Livraria.Api.pdb
+D:\Git\Livraria\Livraria\Livraria.Api\bin\Debug\netcoreapp2.0\Livraria.Application.dll
+D:\Git\Livraria\Livraria\Livraria.Api\bin\Debug\netcoreapp2.0\Livraria.Data.dll
+D:\Git\Livraria\Livraria\Livraria.Api\bin\Debug\netcoreapp2.0\Livraria.Application.pdb
+D:\Git\Livraria\Livraria\Livraria.Api\bin\Debug\netcoreapp2.0\Livraria.Data.pdb
+D:\Git\Livraria\Livraria\Livraria.Api\obj\Debug\netcoreapp2.0\Livraria.Api.csprojAssemblyReference.cache
+D:\Git\Livraria\Livraria\Livraria.Api\obj\Debug\netcoreapp2.0\Livraria.Api.csproj.CoreCompileInputs.cache
+D:\Git\Livraria\Livraria\Livraria.Api\obj\Debug\netcoreapp2.0\Livraria.Api.AssemblyInfoInputs.cache
+D:\Git\Livraria\Livraria\Livraria.Api\obj\Debug\netcoreapp2.0\Livraria.Api.AssemblyInfo.cs
+D:\Git\Livraria\Livraria\Livraria.Api\obj\Debug\netcoreapp2.0\Livraria.Api.csproj.CopyComplete
+D:\Git\Livraria\Livraria\Livraria.Api\obj\Debug\netcoreapp2.0\Livraria.Api.dll
+D:\Git\Livraria\Livraria\Livraria.Api\obj\Debug\netcoreapp2.0\Livraria.Api.pdb
